@@ -13,7 +13,7 @@
 
 	<modules>
 		<module>esb-manage</module>
-		<module>user-service</module>
+		<module>account-service</module>
 	</modules>
 	
 </project>
